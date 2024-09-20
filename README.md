@@ -1,9 +1,10 @@
 # 🎉 Streamlit Script Launcher 🚀
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.6-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-0.85.0-lightblue)
+
 
 ![chrome_BOrj6YSLaV](https://github.com/user-attachments/assets/a67e1a3d-a5be-4e8b-83d9-a01fb192d6f5)
 
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.6-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-0.85.0-lightblue)
 
 ## 📜 Descrição do Projeto
 
