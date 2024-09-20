@@ -1,11 +1,6 @@
 # 🎉 Streamlit Script Launcher 🚀
 ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.6-orange) ![Streamlit](https://img.shields.io/badge/Streamlit-0.85.0-lightblue)
 
-
-![chrome_BOrj6YSLaV](https://github.com/user-attachments/assets/a67e1a3d-a5be-4e8b-83d9-a01fb192d6f5)
-
-
-
 ## 📜 Descrição do Projeto
 
 O **Streamlit Script Launcher** é um projeto que consiste em um script Python utilizando **PyQt5** para criar uma interface gráfica intuitiva que permite o **drag and drop** de arquivos `.py` do Streamlit. Esta ferramenta foi desenvolvida para facilitar o meu dia a dia e acelerar a **prototipagem de web apps**.
